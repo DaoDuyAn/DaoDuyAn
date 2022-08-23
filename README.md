@@ -1,8 +1,4 @@
-##  🌸 About Me...
 
-- 🔗 Hi, I'm DaoDuyAn.
-
-![line](https://cdn.discordapp.com/attachments/842741907720896512/842806312386428948/gif.gif)
 
 <div align="center">
   
@@ -16,4 +12,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaoDuyAn&layout=compact&theme=merko&text_color=FFFFFF&icon_color=5DE200&border_color=0053FF)](https://github.com/DaoDuyAn) 
 
+![line](https://cdn.discordapp.com/attachments/842741907720896512/842806312386428948/gif.gif)
 
