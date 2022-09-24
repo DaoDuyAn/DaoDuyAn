@@ -9,9 +9,7 @@
 
 ## GitHub Status
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaoDuyAn&layout=compact&theme=merko&text_color=FFFFFF&icon_color=5DE200&border_color=0053FF)](https://github.com/DaoDuyAn) 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaoDuyAn&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaoDuyAn&theme=tokyonight)
 
 ![line](https://cdn.discordapp.com/attachments/842741907720896512/842806312386428948/gif.gif)
 
