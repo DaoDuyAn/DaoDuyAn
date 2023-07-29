@@ -1,3 +1,6 @@
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=F7BC30&center=true&vCenter=true&width=550&height=52&lines=Hello+World%2C+I'm+An+%3C3)](https://git.io/typing-svg)
 
 <div align="center">
   
